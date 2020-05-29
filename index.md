@@ -1,14 +1,3 @@
-## Welcome to GitHub Pages
-
-https://github.com/CerrajerosdeEspana/cerrajerosensevilla
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
 # El Mejor Cerrajero en Sevilla
 
 Muchos antiguos residentes de Toledo consideran que Cerrajeros de Toledo es el mejor cerrajero de Toledo. ¿Qué nos ha ayudado a ganar este codiciado título? ¿Es porque nuestros cerrajeros expertos son profesionales, amables e informados? Sea cuál sea la razón, no hay duda de que Cerrajeros en Toledo ha ayudado a miles de residentes de Toledo a resolver con éxito sus problemas de cerraduras y llaves. Para nosotros, su completa satisfacción y experiencia de calidad al tratar con nosotros son lo más importante. Nuestra calidad, puntualidad y asequibles precios son incomparables.
